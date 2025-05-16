@@ -3,3 +3,5 @@
 [program1B1]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20162734.png)
 
 [program1B2]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20163354.png)
+
+[program1B3]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20164042.png)
