@@ -34,4 +34,4 @@
 
 [program3B4]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20193023.png) and (https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20193122.png)
 
-[program3B5]->
+[program3B5]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20193240.png)
