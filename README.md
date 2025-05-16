@@ -32,7 +32,7 @@
 
 [program3B3]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20192859.png)
 
-[program3B4]->
+[program3B4]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20193023.png) and ()
 
 
 [program3B5]->
