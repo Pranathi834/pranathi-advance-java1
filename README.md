@@ -50,7 +50,7 @@
 
 [program4B]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20213349.png)
 
-[program4C]->()
+[program4C]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20184530.png)
 
 
 
