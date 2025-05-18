@@ -60,8 +60,11 @@
 
 [program5D]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20191345.png)
 
+[program6A]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20193542.png)
 
+[program6B]->
 
+[program6C]->
 
 
 
