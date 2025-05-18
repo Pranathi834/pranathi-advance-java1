@@ -56,7 +56,7 @@
 
 [program5B]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20190349.png)
 
-[program5C]->()
+[program5C]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20190940.png)
 
 [program5D]->()
 
