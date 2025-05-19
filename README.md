@@ -6,7 +6,7 @@
 
 [ColorSortDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20164042.png)
 
-[olorSubListDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20180204.png)
+[ColorSubListDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20180204.png)
 
 [ColorRemoveByIndexDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20181909.png)
 
@@ -14,7 +14,7 @@
 
 [ReverseLinkedListIteration output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20182749.png)
 
-[program1C3 output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20183545.png)
+[InsertAtEnd output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20183545.png)
 
 [program1C4 output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20184213.png)
 
