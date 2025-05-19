@@ -1,9 +1,12 @@
+/* 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
+pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
+event handling mechanism with addActionListener( ).*/
 package program4B;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
-public class program4B {
+public class CountryButtonEvent{
 
 	    public static void main(String[] args) {
 	        JFrame frame = new JFrame("Country Buttons");
