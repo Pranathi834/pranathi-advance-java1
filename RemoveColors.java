@@ -1,6 +1,6 @@
 package program1B2;
 import java.util.ArrayList;
-public class program1B2 {
+public class RemoveColors {
 	    public static void main(String[] args) {
 	        // Create an ArrayList of colors
 	        ArrayList<String> colors = new ArrayList<>();
