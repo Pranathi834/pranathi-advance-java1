@@ -6,7 +6,7 @@
 
 [ColorSortDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20164042.png)
 
-[progrm1B4 output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20180204.png)
+[olorSubListDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20180204.png)
 
 [program1B5 output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20181909.png)
 
