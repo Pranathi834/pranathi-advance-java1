@@ -1,8 +1,10 @@
+/*1C1 Write a Java program to iterate through all elements in a linked list starting at the
+specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))*/
 package program1C1;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class program1C1 {
+public class LinkedListIteratorDemo {
 	
 	    public static void main(String[] args) {
 	        // Create a LinkedList of Strings
