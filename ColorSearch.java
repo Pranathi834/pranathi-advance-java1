@@ -1,7 +1,7 @@
 package programs1a;
 import java.util.*;
 
-public class program1A {
+public class ColorSearch {
 	    public static void main(String[] args) {
 	        // Initialize ArrayList and LinkedList
 	        List<String> arrayList = new ArrayList<>();
