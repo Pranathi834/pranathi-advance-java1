@@ -5,7 +5,7 @@
 
 
 
-[program3A output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20190524.png)
+
 
 [program3B1 output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20191820.png) and (https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20191857.png)
 
