@@ -1,6 +1,8 @@
+/*Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+defined function truncate() */
 package program3C7;
 
-public class program3C7 {
+public class StringTruncator{
 	
 	    public static String truncate(String str, int length) {
 	        if (str == null || length < 0) return "";
