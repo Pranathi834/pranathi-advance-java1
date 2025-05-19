@@ -4,7 +4,7 @@ package program1C1;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class program1C1 {
+public class LinkedListIterationFromSecond {
 	
 	    public static void main(String[] args) {
 	        // Create a LinkedList of Strings
