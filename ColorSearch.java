@@ -1,7 +1,7 @@
 package Program1B1;
 import java.util.ArrayList;
 
-public class Program1B1 {
+public class ColorSearch {
 
 	    public static void main(String[] args) {
 	        // Create an ArrayList to store color names
