@@ -1,6 +1,6 @@
 package program1B3;
 import java.util.ArrayList;
-public class program1B3 {
+public class ColorSortDemo {
 	
 
 	    public static void main(String[] args) {
