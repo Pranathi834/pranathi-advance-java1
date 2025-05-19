@@ -1,8 +1,10 @@
+/*1C2 Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())*/
 package program1C2;
 import java.util.LinkedList;
 import java.util.Iterator;
 
-public class program1C2 {
+public class ReverseLinkedListIteration {
 	
 	    public static void main(String[] args) {
 	        // Create a LinkedList of Strings
