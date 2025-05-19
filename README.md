@@ -1,4 +1,4 @@
-[program1A]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20161256.png)
+[ArrayListLinkedList]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20161256.png)
 
 [program1B1]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20162734.png)
 
