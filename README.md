@@ -9,7 +9,7 @@
 
 [StringNullOrEmptyCheck output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20191820.png) and (https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20191857.png)
 
-[program3B2 output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20192744.png)
+[SubstringOccurrenceCounter output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20192744.png)
 
 [StringReverser output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20192859.png)
 
