@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
 
-public class program5C extends JFrame {
+public class CountryCapitalList extends JFrame {
 
     public program5C() {
         String[] countries = {"USA", "India", "Vietnam", "Canada", "Denmark", "France",
