@@ -1,3 +1,5 @@
+/*8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
+new coffee product into it*/
 package com.mysql;
 import java.sql.*;
 import java.util.Properties;
