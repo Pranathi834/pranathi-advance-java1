@@ -1,10 +1,13 @@
+/*5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display the capital of the countries on console whenever the countries are selected on the list.*/
 package program5C;
 
 import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
 
-public class program5C extends JFrame {
+public class countrycapital extends JFrame {
 
     public program5C() {
         String[] countries = {"USA", "India", "Vietnam", "Canada", "Denmark", "France",
