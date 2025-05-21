@@ -76,6 +76,71 @@
 
   [ImageButtonEvent output link] ->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20184530.png)
 
+  5a.SwingjlistDemo:
+  [CountryListSelection output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20191013.png)
+
+  5b.SwingTabbedPane:
+  [ColorTabbedPane output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20190349.png)
+
+  5c.CountryCapitalApp:
+  [CountryCapitalList output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20190940.png)
+
+  5d.ColorTabbedPaneApp:
+  [ColorTabbedPaneapp output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20191345.png)
+
+  6a.FactorialServletApp:
+  [FactorialServletapp output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20183755.png)
+
+  6b.CookieServlet:
+  [CookieServlet output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20195119.png)
+
+  6c.PrimeNumberCheckServletApp:
+   [primenumberchecker output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20191642.png) [after enter]->    (https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20195913.png)
+
+  7a.JspSessionExample
+  [jspsessionexample output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20214430.png)
+
+  7b.JspCookieManager
+  [jspcookiemanage output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20214908.png)
+
+  8a.JspCoffeeApp
+  [jspcoffeeinsert output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20143955.png)
+
+  8b.JspCoffeeUpdateApp
+  [updatecoffee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20215947.png)
+
+  8c.JSP_Insert_Employee
+  [jsp_insert_employee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20202530.png)
+
+  8d.Update_Employee
+  [jsp_update_employee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20202547.png)
+
+  9a.JspCoffeeDeleteApp
+  [deletecoffee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20220452.png)
+
+  9b.JspCoffeeQueryApp
+  [coffeequery output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20220750.png)
+
+  9c.JspEmpInsertApp
+  [addemployee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20221606.png)
+  
+  9d.JspDeleteEmpByName
+  [deleteemployeebyname output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20222154.png)
+
+  
+
+
+  
+  
+
+
+
+
+
+
+
+  
+
 
 
   
