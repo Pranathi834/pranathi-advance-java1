@@ -104,9 +104,10 @@
 📌7b.JspCookieManager
   [jspcookiemanage output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20214908.png)
 
-  8a.JspCoffeeApp
+📌8a.JspCoffeeApp
   [jspcoffeeinsert output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20143955.png)
-
+  [MYSQL_Setup link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/8a_JspCoffeeApp/MYSQL_Setup.java)
+  
 📌8b.JspCoffeeUpdateApp
   [updatecoffee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20215947.png)
 
@@ -118,7 +119,8 @@
 
 📌9a.JspCoffeeDeleteApp
   [deletecoffee output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20220452.png)
-
+  [MYSQL_Setup link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/9a_JspCoffeeDeleteApp/MYSQL_Setup.java)
+  
 📌9b.JspCoffeeQueryApp
   [coffeequery output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20220750.png)
 
