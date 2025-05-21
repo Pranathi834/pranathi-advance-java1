@@ -1,6 +1,7 @@
+/*Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )*/
 package program1C4;
-import java.util.LinkedList;
-public class program1C4 {
+import java.udisplaylinkedlist {
 
 	    public static void main(String[] args) {
 	        // Create a LinkedList of Strings
