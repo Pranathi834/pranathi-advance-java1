@@ -1,10 +1,10 @@
 **Java Programs Repository Outputs:**
 
-1a.Linkedlistprograms:
+📌1a.Linkedlistprograms:
   
   [arratlistlinkedlist output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20161256.png)
 
-1b.Arraylistprograms:
+📌1b.Arraylistprograms:
 
   [ColorSearch output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20162734.png)
 
@@ -16,7 +16,7 @@
 
   [ColorRemoveByIndexDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20181909.png)
 
-1c.linkedlistprograms:
+📌1c.linkedlistprograms:
 
   [LinkedListIterationFromSecond output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20182319.png)
 
@@ -28,19 +28,19 @@
 
   [SwapElementsInLinkedList output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20184357.png)
 
-2a.Stringoperations:
+📌2a.Stringoperations:
 
   [StringOperationsDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20185322.png)
 
-2b.StringBufferVsStringBuilder:
+📌2b.StringBufferVsStringBuilder:
 
   [StringPerformanceTest.java output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20185840.png)
 
-3a.AdvancedStringOperations:
+📌3a.AdvancedStringOperations:
 
   [AdvancedStringDemo output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20190524.png)
 
-3b.StringExercise:
+📌3b.StringExercise:
 
 [StringNullOrEmptyCheck output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20191820.png) and (https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20191857.png)
 
@@ -52,7 +52,7 @@
 
 [WhitespaceRemover output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20193240.png)
 
-3c.StringManipulation:
+📌3c.StringManipulation:
 
 [WordCapitalizer output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20210439.png)
 
@@ -64,15 +64,15 @@
 
 [WordCounter output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20211232.png)
 
-4a.SwingBasics:
+📌4a.SwingBasics:
 
   [HelloSwing output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20213132.png)
 
-4b.SwingButtonEvents:
+📌4b.SwingButtonEvents:
 
   [CountryButtonEvent output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20213349.png)
 
-4c.SwingImageButtons:
+📌4c.SwingImageButtons:
 
   [ImageButtonEvent output link] ->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-18%20184530.png)
 
