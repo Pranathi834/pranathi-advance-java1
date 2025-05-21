@@ -127,7 +127,168 @@
   9d.JspDeleteEmpByName
   [deleteemployeebyname output link]->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-20%20222154.png)
 
+📌 1a. Linked List Programs
+ArrayList vs LinkedList Output:
+arratlistlinkedlist output link->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20161256.png)
 
+📌 1b. ArrayList Programs
+ColorSearch:
+Output->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20162734.png)
+
+RemoveColors:
+Output->(https://github.com/Pranathi834/pranathi-advance-java1/blob/main/Screenshot%202025-05-16%20163354.png)
+
+ColorSortDemo:
+Output
+
+ColorSubListDemo:
+Output
+
+ColorRemoveByIndexDemo:
+Output
+
+📌 1c. LinkedList Programs (Advanced)
+LinkedListIterationFromSecond:
+Output
+
+ReverseLinkedListIteration:
+Output
+
+InsertAtEnd:
+Output
+
+DisplayElementsWithPositions:
+Output
+
+SwapElementsInLinkedList:
+Output
+
+📌 2a. String Operations
+StringOperationsDemo:
+Output
+
+📌 2b. StringBuffer vs StringBuilder
+StringPerformanceTest.java:
+Output
+
+📌 3a. Advanced String Operations
+AdvancedStringDemo:
+Output
+
+📌 3b. String Exercises
+StringNullOrEmptyCheck:
+Output1,
+Output2
+
+SubstringOccurrenceCounter:
+Output
+
+StringReverser:
+Output
+
+PalindromeChecker:
+Output1,
+Output2
+
+WhitespaceRemover:
+Output
+
+📌 3c. String Manipulation Programs
+WordCapitalizer:
+Output
+
+StringTruncator:
+Output
+
+NumericStringChecker:
+Output
+
+RandomStringGenerator:
+Output
+
+WordCounter:
+Output
+
+📌 4a. Swing Basics
+HelloSwing:
+Output
+
+📌 4b. Swing Button Events
+CountryButtonEvent:
+Output
+
+📌 4c. Swing Image Buttons
+ImageButtonEvent:
+Output
+
+📌 5a. Swing JList Demo
+CountryListSelection:
+Output
+
+📌 5b. Swing Tabbed Pane
+ColorTabbedPane:
+Output
+
+📌 5c. Country Capital App
+CountryCapitalList:
+Output
+
+📌 5d. Color Tabbed Pane App
+ColorTabbedPaneApp:
+Output
+
+📌 6a. Servlet - Factorial App
+FactorialServletApp:
+Output
+
+📌 6b. Servlet - Cookie Management
+CookieServlet:
+Output
+
+📌 6c. Servlet - Prime Number Check
+PrimeNumberCheckServletApp:
+Output (Before Enter)
+Output (After Enter)
+
+📌 7a. JSP Session Example
+JspSessionExample:
+Output
+
+📌 7b. JSP Cookie Manager
+JspCookieManager:
+Output
+
+📌 8a. JSP Coffee App - Insert
+JspCoffeeInsert:
+Output
+
+📌 8b. JSP Coffee App - Update
+JspCoffeeUpdateApp:
+Output
+
+📌 8c. JSP Insert Employee
+Jsp_Insert_Employee:
+Output
+
+📌 8d. JSP Update Employee
+Jsp_Update_Employee:
+Output
+
+📌 9a. JSP Coffee App - Delete
+JspCoffeeDeleteApp:
+Output
+
+📌 9b. JSP Coffee Query App
+CoffeeQuery:
+Output
+
+📌 9c. JSP Employee Insert App
+JspEmpInsertApp:
+Output
+
+📌 9d. JSP Delete Employee by Name
+JspDeleteEmpByName:
+Output
 
 
 
